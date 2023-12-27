@@ -1,0 +1,4 @@
+# ninja log v5
+592	722	7253577737634042	Badminton.exe	22cbcd627d13f656
+1	278	7254117507805244	build.ninja	cd6d88cbb345aaf4
+5	586	7253577736333609	CMakeFiles/Badminton.dir/gameSim.cpp.obj	7e00f4db572629ed
